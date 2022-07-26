@@ -25,7 +25,7 @@ Please follow these steps when running this application. <br/><br/>1. git clone 
 
 ## Usage Information
 
-This project should be used to act as a ToDo list, propviding a way for people to take notes on an everyday basis and/or provide an open source code for users to see how to create an application similar to this one. <br/>Deployed at Herkou: <br/> (link)
+This project should be used to act as a ToDo list, propviding a way for people to take notes on an everyday basis and/or provide an open source code for users to see how to create an application similar to this one. <br/>Deployed at Herkou: <br/> https://m11-note-taker.herokuapp.com/
 
 Sample Page:
 
